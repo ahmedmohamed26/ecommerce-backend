@@ -34,6 +34,7 @@
   "products": [
     {
       "id": 1,
+      "discount": 10,
       "title": "Regular Fit Jersey top",
       "price": "249.00",
       "cat_prefix": "men",
@@ -41,6 +42,7 @@
     },
     {
       "id": 2,
+      "discount": 22,
       "title": "Regular Fit Jersey top",
       "price": "229.00",
       "cat_prefix": "men",
@@ -48,6 +50,7 @@
     },
     {
       "id": 3,
+      "discount": 13,
       "title": "Cotton polo shirt",
       "price": "200.00",
       "cat_prefix": "men",
@@ -55,6 +58,7 @@
     },
     {
       "id": 4,
+      "discount": 5,
       "title": "Cotton t-shirt",
       "price": "100.00",
       "cat_prefix": "women",
@@ -62,6 +66,7 @@
     },
     {
       "id": 5,
+      "discount": 20,
       "title": "Sweatshirt shorts",
       "price": "300.00",
       "cat_prefix": "women",
@@ -69,6 +74,7 @@
     },
     {
       "id": 6,
+      "discount": 15,
       "title": "Velour top",
       "price": "300.00",
       "cat_prefix": "kids",
@@ -76,6 +82,7 @@
     },
     {
       "id": 9,
+      "discount": 10,
       "title": "Pile all-in-one suit with ears",
       "price": "500.00",
       "cat_prefix": "baby",
@@ -83,6 +90,7 @@
     },
     {
       "id": 17,
+      "discount": 5,
       "title": "Regular Fit football shirt",
       "price": "449.00",
       "cat_prefix": "sport",
